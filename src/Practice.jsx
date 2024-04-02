@@ -17,7 +17,7 @@ const Practice = () => {
 
 export default Practice;
 
-function calling after some specific time
+//function calling after some specific time
 
 import React, { useCallback } from "react";
 import { useTimeoutFn } from "react-use";
